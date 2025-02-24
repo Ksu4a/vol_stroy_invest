@@ -509,6 +509,12 @@ html, body {
         margin-right: auto; */
         margin-top: 90px;
     }
+    .header__wrapper{
+        background-image: url(/img/Logo_.jpg);
+        background-position: center center no-repeat fixed;
+        background-size: cover;
+
+    }
 
     .header__title {
         font-size: 30px;
