@@ -15,11 +15,9 @@ font-family: 'Poppins', sans-serif;
     --black: #000000;
     --black-border: #26292D;
     --white: #fff;
-    /* --purple: #87809e; */
     --purple: #faeb65;
     --orange: #9d823e;
     --green: #9AD2BC;
-    /* ////////////////////////////////////////////////////////////////////////////// */
     --lightGreen: #d1d1cd;
     
     --text-color: var(--black);
@@ -508,12 +506,6 @@ html, body {
         /* margin-left: auto;
         margin-right: auto; */
         margin-top: 90px;
-    }
-    .header__wrapper{
-        background-image: url(/img/Logo_.jpg);
-        background-position: center center no-repeat fixed;
-        background-size: cover;
-
     }
 
     .header__title {
